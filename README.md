@@ -1,4 +1,5 @@
 # Generation-of-FM-wave-form
+# Name:SRIRAJ G
 # Register Number:212222040161
 # Date:28-04-2025
 
